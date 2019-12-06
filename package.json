@@ -1,0 +1,66 @@
+{
+  "_from": "pushy-cordova@~1.0.29",
+  "_id": "pushy-cordova@1.0.29",
+  "_inBundle": false,
+  "_integrity": "sha512-EgTsimrbYFPMADN8X16E+HStN9v4peaYfQhfsnSElTYBynXRECcOCaEG7vq5fHtnb4UAcH4r76pGMrVINb6V8Q==",
+  "_location": "/pushy-cordova",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pushy-cordova@~1.0.29",
+    "name": "pushy-cordova",
+    "escapedName": "pushy-cordova",
+    "rawSpec": "~1.0.29",
+    "saveSpec": null,
+    "fetchSpec": "~1.0.29"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pushy-cordova/-/pushy-cordova-1.0.29.tgz",
+  "_shasum": "ef88c21de37dba31c5d991cb12df2f06a2f451c1",
+  "_spec": "pushy-cordova@~1.0.29",
+  "_where": "C:\\Users\\User\\PhoneGap\\test2\\chargedUp",
+  "author": {
+    "name": "Pushy",
+    "email": "support@pushy.me"
+  },
+  "bugs": {
+    "url": "https://github.com/pushy-me/pushy-cordova/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "pushy-cordova",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "The official Pushy SDK for Cordova apps.",
+  "homepage": "https://github.com/pushy-me/pushy-cordova#readme",
+  "keywords": [
+    "pushy",
+    "pushy.me",
+    "sdk",
+    "cordova",
+    "phonegap",
+    "ionic",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "Apache-2.0",
+  "name": "pushy-cordova",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushy-me/pushy-cordova.git"
+  },
+  "version": "1.0.29"
+}
